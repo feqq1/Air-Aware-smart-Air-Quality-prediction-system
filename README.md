@@ -28,3 +28,10 @@ Modular design for easy extension
 📊 Dashboard Preview
 
 Live Demo (Milestone-1): Streamlit App
+Run this command
+streamlit run dashboard.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503
+  Network URL: http://100.115.92.199:8503
